@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name         hgamefree.info captcha skip
 // @namespace    http://tampermonkey.net/
-// @version      1.3
+// @version      1.4
 // @icon         https://hgamefree.info/wp-content/uploads/2023/11/hgamelogo.png
 // @description  移除 Google reCAPTCHA v2 的所有可視框架與遮罩
 // @author       Lin_tsen
-// @match        https://hgamefree.info/adult-video-game/*/*
+// @match        https://hgamefree.info/adult-video-game/*
 // @grant        none
 // @license      MIT
 // ==/UserScript==
